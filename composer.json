@@ -1,5 +1,5 @@
 {
-    "name" : "r3m_io/output.filter",
+    "name" : "r3m_io/output_filter",
     "description" : "r3m_io/output.filter see https://r3m.io for detailed usage",
     "type" : "library",
     "keywords" : ["node", "r3m", "library", "framework", "output", "filter", "r3m.io"],

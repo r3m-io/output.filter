@@ -1,1 +1,1 @@
-# output.filter
+# output_filter
