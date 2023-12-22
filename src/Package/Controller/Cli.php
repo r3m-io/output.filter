@@ -1,6 +1,6 @@
 <?php
 
-namespace Package\R3m\Io\Log\Controller;
+namespace Package\R3m\Io\OutputFilter\Controller;
 
 use R3m\Io\App;
 use R3m\Io\Config;
@@ -22,9 +22,8 @@ class Cli extends Controller {
     const DIR = __DIR__ . '/';
     const MODULE_INFO = 'Info';
     const INFO = [
-        '{{binary()}} r3m_io/log                     | log options',
-        '{{binary()}} r3m_io/log setup               | Log setup',
-        '{{binary()}} r3m_io/log archive <archive>   | Zip <archive> into <archive>.{literal}{date(\'Y-m-d H:i:s\')}{/literal}.log.zip',
+        '{{binary()}} r3m_io/output_filter           | output_filter options',
+        '{{binary()}} r3m_io/output_filter setup     | output_filter setup',
     ];
 
     /**
@@ -32,6 +31,7 @@ class Cli extends Controller {
      * @throws Exception
      */
     public static function run(App $object){
+        /*
         $autoload = [];
         $data = new Data();
         $data->set('prefix', 'Node');
@@ -40,6 +40,7 @@ class Cli extends Controller {
         $data->clear();
         $data->set('autoload', $autoload);
         Cli::autoload($object, $data);
+        */
         $node = $object->request(0);
         $scan = Cli::scan($object);
         $module = $object->parameter($object, $node, 1);
