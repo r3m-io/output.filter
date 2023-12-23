@@ -40,6 +40,10 @@
       "#class": "Account.Permission"
     },
     {
+      "name": "System:Output:Filter:delete.many",
+      "#class": "Account.Permission"
+    },
+    {
       "name": "System:Output:Filter:read",
       "#class": "Account.Permission"
     },
