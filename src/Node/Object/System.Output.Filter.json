@@ -12,10 +12,6 @@
                 "type": "object",
                 "property": [
                     {
-                        "name": "command",
-                        "type": "array"
-                    },
-                    {
                         "name": "controller",
                         "type": "array"
                     },
