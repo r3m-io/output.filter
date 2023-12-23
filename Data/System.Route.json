@@ -5,7 +5,7 @@
         "#class": "System.Route",
         "name": "r3m-io-cli-output-filter",
         "path": "r3m_io\/output_filter",
-        "controller": "Package:R3m:Io:OutputFilter:Controller:Cli:run",
+        "controller": "Package:R3m:Io:Output:Filter:Controller:Cli:run",
         "priority": 1001,
         "request": {
           "language": "en"
