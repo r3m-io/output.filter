@@ -36,6 +36,10 @@
       "#class": "Account.Permission"
     },
     {
+      "name": "System:Output:Filter:delete",
+      "#class": "Account.Permission"
+    },
+    {
       "name": "System:Output:Filter:read",
       "#class": "Account.Permission"
     },
