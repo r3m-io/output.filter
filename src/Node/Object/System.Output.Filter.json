@@ -1,6 +1,6 @@
 {
     "Node": {
-        "#class": "System.Middleware",
+        "#class": "System.Output.Filter",
         "type": "object",
         "property": [
             {
