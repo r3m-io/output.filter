@@ -1,6 +1,6 @@
 <?php
 
-namespace Package\R3m\Io\OutputFilter\Controller;
+namespace Package\R3m\Io\Output\Filter\Controller;
 
 use R3m\Io\App;
 use R3m\Io\Config;

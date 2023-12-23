@@ -1,4 +1,4 @@
-{{$register = Package.R3m.Io.OutputFilter:Init:register()}}
+{{$register = Package.R3m.Io.Output:Filter:Init:register()}}
 {{if(!is.empty($register))}}
-{{Package.R3m.Io.OutputFilter:Import:role.system()}}
+{{Package.R3m.Io.Output:Filter:Import:role.system()}}
 {{/if}}

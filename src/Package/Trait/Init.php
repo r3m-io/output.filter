@@ -1,5 +1,5 @@
 <?php
-namespace Package\R3m\Io\OutputFilter\Trait;
+namespace Package\R3m\Io\Output\Filter\Trait;
 
 use R3m\Io\App;
 
