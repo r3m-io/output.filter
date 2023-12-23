@@ -1,0 +1,83 @@
+{
+  "name": "ROLE_SYSTEM",
+  "rank": 1,
+  "#class": "Account.Role",
+  "permission": [
+    {
+      "name": "System:OutputFilter:import",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:OutputFilter:record",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:OutputFilter:record.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:OutputFilter:create",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:OutputFilter:create.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:OutputFilter:count",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:OutputFilter:count.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:OutputFilter:commit",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:OutputFilter:read",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:OutputFilter:read.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:OutputFilter:put",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:OutputFilter:put.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:OutputFilter:patch",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:OutputFilter:patch.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:OutputFilter:page",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:OutputFilter:page.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:OutputFilter:list",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:OutputFilter:list.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:OutputFilter:rename",
+      "#class": "Account.Permission"
+    }
+  ]
+}

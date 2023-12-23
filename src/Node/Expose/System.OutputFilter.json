@@ -1,0 +1,259 @@
+{
+    "System": {
+        "Middleware": {
+            "count": {
+                "expose": [
+                    {
+                        "role": "ROLE_SYSTEM",
+                        "property": [
+                            "uuid",
+                            "#class",
+                            "route",
+                            "options"
+                        ],
+                        "object": {
+                            "options": {
+                                "multiple": false,
+                                "expose": [
+                                    "command",
+                                    "controller",
+                                    "priority"
+                                ]
+                            }
+                        }
+                    }
+                ]
+            },
+            "create": {
+                "expose": [
+                    {
+                        "role": "ROLE_SYSTEM",
+                        "property": [
+                            "uuid",
+                            "#class",
+                            "route",
+                            "options"
+                        ],
+                        "object": {
+                            "options": {
+                                "multiple": false,
+                                "expose": [
+                                    "command",
+                                    "controller",
+                                    "priority"
+                                ]
+                            }
+                        }
+                    }
+                ]
+            },
+            "create_many": {
+                "expose": [
+                    {
+                        "role": "ROLE_SYSTEM",
+                        "property": [
+                            "uuid",
+                            "#class",
+                            "route",
+                            "options"
+                        ],
+                        "object": {
+                            "options": {
+                                "multiple": false,
+                                "expose": [
+                                    "command",
+                                    "controller",
+                                    "priority"
+                                ]
+                            }
+                        }
+                    }
+                ]
+            },
+            "list": {
+                "expose": [
+                    {
+                        "role": "ROLE_SYSTEM",
+                        "property": [
+                            "uuid",
+                            "#class",
+                            "route",
+                            "options"
+                        ],
+                        "object": {
+                            "options": {
+                                "multiple": false,
+                                "expose": [
+                                    "command",
+                                    "controller",
+                                    "priority"
+                                ]
+                            }
+                        }
+                    }
+                ]
+            },
+            "page": {
+                "expose": [
+                    {
+                        "role": "ROLE_SYSTEM",
+                        "property": [
+                            "uuid",
+                            "#class",
+                            "route",
+                            "options"
+                        ],
+                        "object": {
+                            "options": {
+                                "multiple": false,
+                                "expose": [
+                                    "command",
+                                    "controller",
+                                    "priority"
+                                ]
+                            }
+                        }
+                    }
+                ]
+            },
+            "patch": {
+                "expose": [
+                    {
+                        "role": "ROLE_SYSTEM",
+                        "property": [
+                            "uuid",
+                            "#class",
+                            "route",
+                            "options"
+                        ],
+                        "object": {
+                            "options": {
+                                "multiple": false,
+                                "expose": [
+                                    "command",
+                                    "controller",
+                                    "priority"
+                                ]
+                            }
+                        }
+                    }
+                ]
+            },
+            "patch_many": {
+                "expose": [
+                    {
+                        "role": "ROLE_SYSTEM",
+                        "property": [
+                            "uuid",
+                            "#class",
+                            "route",
+                            "options"
+                        ],
+                        "object": {
+                            "options": {
+                                "multiple": false,
+                                "expose": [
+                                    "command",
+                                    "controller",
+                                    "priority"
+                                ]
+                            }
+                        }
+                    }
+                ]
+            },
+            "put": {
+                "expose": [
+                    {
+                        "role": "ROLE_SYSTEM",
+                        "property": [
+                            "uuid",
+                            "#class",
+                            "route",
+                            "options"
+                        ],
+                        "object": {
+                            "options": {
+                                "multiple": false,
+                                "expose": [
+                                    "command",
+                                    "controller",
+                                    "priority"
+                                ]
+                            }
+                        }
+                    }
+                ]
+            },
+            "put_many": {
+                "expose": [
+                    {
+                        "role": "ROLE_SYSTEM",
+                        "property": [
+                            "uuid",
+                            "#class",
+                            "route",
+                            "options"
+                        ],
+                        "object": {
+                            "options": {
+                                "multiple": false,
+                                "expose": [
+                                    "command",
+                                    "controller",
+                                    "priority"
+                                ]
+                            }
+                        }
+                    }
+                ]
+            },
+            "read": {
+                "expose": [
+                    {
+                        "role": "ROLE_SYSTEM",
+                        "property": [
+                            "uuid",
+                            "#class",
+                            "route",
+                            "options"
+                        ],
+                        "object": {
+                            "options": {
+                                "multiple": false,
+                                "expose": [
+                                    "command",
+                                    "controller",
+                                    "priority"
+                                ]
+                            }
+                        }
+                    }
+                ]
+            },
+            "record": {
+                "expose": [
+                    {
+                        "role": "ROLE_SYSTEM",
+                        "property": [
+                            "uuid",
+                            "#class",
+                            "route",
+                            "options"
+                        ],
+                        "object": {
+                            "options": {
+                                "multiple": false,
+                                "expose": [
+                                    "command",
+                                    "controller",
+                                    "priority"
+                                ]
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
