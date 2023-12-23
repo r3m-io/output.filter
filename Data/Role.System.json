@@ -4,79 +4,79 @@
   "#class": "Account.Role",
   "permission": [
     {
-      "name": "System:OutputFilter:import",
+      "name": "System:Output:Filter:import",
       "#class": "Account.Permission"
     },
     {
-      "name": "System:OutputFilter:record",
+      "name": "System:Output:Filter:record",
       "#class": "Account.Permission"
     },
     {
-      "name": "System:OutputFilter:record.relation",
+      "name": "System:Output:Filter:record.relation",
       "#class": "Account.Permission"
     },
     {
-      "name": "System:OutputFilter:create",
+      "name": "System:Output:Filter:create",
       "#class": "Account.Permission"
     },
     {
-      "name": "System:OutputFilter:create.many",
+      "name": "System:Output:Filter:create.many",
       "#class": "Account.Permission"
     },
     {
-      "name": "System:OutputFilter:count",
+      "name": "System:Output:Filter:count",
       "#class": "Account.Permission"
     },
     {
-      "name": "System:OutputFilter:count.relation",
+      "name": "System:Output:Filter:count.relation",
       "#class": "Account.Permission"
     },
     {
-      "name": "System:OutputFilter:commit",
+      "name": "System:Output:Filter:commit",
       "#class": "Account.Permission"
     },
     {
-      "name": "System:OutputFilter:read",
+      "name": "System:Output:Filter:read",
       "#class": "Account.Permission"
     },
     {
-      "name": "System:OutputFilter:read.relation",
+      "name": "System:Output:Filter:read.relation",
       "#class": "Account.Permission"
     },
     {
-      "name": "System:OutputFilter:put",
+      "name": "System:Output:Filter:put",
       "#class": "Account.Permission"
     },
     {
-      "name": "System:OutputFilter:put.many",
+      "name": "System:Output:Filter:put.many",
       "#class": "Account.Permission"
     },
     {
-      "name": "System:OutputFilter:patch",
+      "name": "System:Output:Filter:patch",
       "#class": "Account.Permission"
     },
     {
-      "name": "System:OutputFilter:patch.many",
+      "name": "System:Output:Filter:patch.many",
       "#class": "Account.Permission"
     },
     {
-      "name": "System:OutputFilter:page",
+      "name": "System:Output:Filter:page",
       "#class": "Account.Permission"
     },
     {
-      "name": "System:OutputFilter:page.relation",
+      "name": "System:Output:Filter:page.relation",
       "#class": "Account.Permission"
     },
     {
-      "name": "System:OutputFilter:list",
+      "name": "System:Output:Filter:list",
       "#class": "Account.Permission"
     },
     {
-      "name": "System:OutputFilter:list.relation",
+      "name": "System:Output:Filter:list.relation",
       "#class": "Account.Permission"
     },
     {
-      "name": "System:OutputFilter:rename",
+      "name": "System:Output:Filter:rename",
       "#class": "Account.Permission"
     }
   ]
