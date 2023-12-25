@@ -76,6 +76,10 @@
       "#class": "Account.Permission"
     },
     {
+      "name": "System:Output:Filter:property.delete",
+      "#class": "Account.Permission"
+    },
+    {
       "name": "System:Output:Filter:list",
       "#class": "Account.Permission"
     },
