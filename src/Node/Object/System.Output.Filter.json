@@ -17,7 +17,7 @@
                     },
                     {
                         "name": "priority",
-                        "type": "int"
+                        "type": "integer"
                     }
                 ],
                 "multiple": false
