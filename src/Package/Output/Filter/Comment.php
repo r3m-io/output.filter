@@ -10,6 +10,7 @@ class Comment extends Controller
 {
 
     public static function remove(App $object, $response = null): mixed
+    {
         ddd($response);
         return $response;
     }
