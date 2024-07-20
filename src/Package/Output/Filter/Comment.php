@@ -9,9 +9,11 @@ use R3m\Io\Module\Controller;
 class Comment extends Controller
 {
 
-    public static function remove(App $object, $response = null): mixed
+    public static function remove(App $object, $destination, $filter, $options = []): mixed
     {
-        ddd($response);
+        d($destination);
+        d($filter);
+        ddd($options);
         return $response;
     }
 
