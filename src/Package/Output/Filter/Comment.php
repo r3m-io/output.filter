@@ -14,7 +14,7 @@ class Comment extends Controller
         d($destination);
         d($filter);
         ddd($options);
-        return $response;
+        return $options['response'];
     }
 
 }
